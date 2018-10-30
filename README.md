@@ -1,2 +1,2 @@
 # misc-code
-some misc codes;
+Some Codes related to no particular topic.
